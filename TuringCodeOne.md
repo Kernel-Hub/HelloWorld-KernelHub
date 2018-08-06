@@ -11,5 +11,5 @@
 ### 关于
 
 &emsp;&emsp;[博客](https://turingcodeone.github.io)——*比较懒，没怎么写*
-&emsp;&emsp;[GitHub](https://github.com/TuringCodeOne)——*欢迎fork我的仓库*
+&emsp;&emsp;[GitHub](https://github.com/TuringCodeOne)——*欢迎 fork 我的仓库*
 
